@@ -1,0 +1,24 @@
+/* Reset some default browser styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Apply a default font size and background color */
+html, body {
+  font-size: 16px;
+  background-color: #f0f0f0;
+}
+
+/* Apply some styling to all links */
+a {
+  text-decoration: none;
+  color: #333;
+  transition: color 0.3s;
+}
+
+/* Add a hover effect for links */
+a:hover {
+  color: #555;
+}
